@@ -1,0 +1,11 @@
+framework module APIHandler {
+  umbrella header "APIHandler.h"
+  export *
+
+  module * { export * }
+}
+
+module APIHandler.Swift {
+  header "APIHandler-Swift.h"
+  requires objc
+}
