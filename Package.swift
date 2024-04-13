@@ -22,7 +22,7 @@ let package = Package(
         .target(
             name: "APIHandler",
             dependencies: [],
-            path: "APIHandler"
+            path: "APIHandler/APIHandler/APIHandler"
         )
     ]
 )
