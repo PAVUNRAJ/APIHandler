@@ -8,13 +8,9 @@
 		<data>
 		RNqgVeWD5HvNsrUW4nJHYxvxIDQ=
 		</data>
-		<key>.git/AUTO_MERGE</key>
-		<data>
-		j8wfr9hzgpgntmGKwOqVc6a9c7Y=
-		</data>
 		<key>.git/COMMIT_EDITMSG</key>
 		<data>
-		vEibPii+y923H745dEUaC8Gwa0M=
+		zU20aLe7iLix59iy/4oGXE+QQV4=
 		</data>
 		<key>.git/FETCH_HEAD</key>
 		<data>
@@ -94,7 +90,7 @@
 		</data>
 		<key>.git/index</key>
 		<data>
-		h/+/be9RSROqh+BaPyc571QID+w=
+		qf2jRQNor4SE4fvNsbRtTOtLy8M=
 		</data>
 		<key>.git/info/exclude</key>
 		<data>
@@ -102,15 +98,15 @@
 		</data>
 		<key>.git/logs/HEAD</key>
 		<data>
-		0qUNkv5RJg69kNyGUjmwBs0cyCA=
+		0VnRM6nY11EvXygARKmNZo/V2hI=
 		</data>
 		<key>.git/logs/refs/heads/main</key>
 		<data>
-		fB+6cUQQ3Y31K85449Xa7TEY+0s=
+		q/4JoaYeFO2HbIukqfkyTCJkPSs=
 		</data>
 		<key>.git/logs/refs/remotes/origin/main</key>
 		<data>
-		sdkorYGbc74f4gj+qTvjofDDd/c=
+		K+cWRTyGYivTIZlubk0dNc9Egfs=
 		</data>
 		<key>.git/objects/00/0817dba53453e4e7970fe77c380e654c5f9e18</key>
 		<data>
@@ -124,6 +120,10 @@
 		<data>
 		YmHpWQGivqkzWUEmy8q7YG1Wqdk=
 		</data>
+		<key>.git/objects/16/22a713365fa997e44cf11b4e5695df4e7bce6e</key>
+		<data>
+		60sKq14HVDieMApn15osHY4QuKU=
+		</data>
 		<key>.git/objects/1b/58fb8d90825d86c7f75c0f04bcc3fcc001f544</key>
 		<data>
 		S+7mMJsBn2NJ2pImbRJiC8ImS6E=
@@ -135,6 +135,10 @@
 		<key>.git/objects/2c/71131c0697073bcee45044f698546b23c40406</key>
 		<data>
 		FPSPr5VRg0woSgOvLEKlxOMLMec=
+		</data>
+		<key>.git/objects/40/fed0b9ab47343a83773f1d7a722e2df8fbcea9</key>
+		<data>
+		yD+Fx/Mpm/fqxxJPfK70MvjN4XQ=
 		</data>
 		<key>.git/objects/4a/445fd05303707995495775aef40625f8ee6403</key>
 		<data>
@@ -168,9 +172,37 @@
 		<data>
 		irRKlcvYLUrWE3g/j5iSVxkbEwM=
 		</data>
+		<key>.git/objects/8f/437bc74cc70b2f2f9db788cecd9869cfb5dc16</key>
+		<data>
+		iGKEWD2mFxQo09tEref009jXE5c=
+		</data>
+		<key>.git/objects/95/9864193727ab4b7a674bbd29a00deb8cbcf4b0</key>
+		<data>
+		IVdNnMaSaNufWclzRsgGSnGgazA=
+		</data>
 		<key>.git/objects/9d/bf82978237f6281d2a639ef03dbb483d56752f</key>
 		<data>
 		+3FJSIRb76QKGCvUvM2glEeFyoA=
+		</data>
+		<key>.git/objects/9f/386a1de33719b65fb383ba950a551d70fc96e7</key>
+		<data>
+		hUFrvVRa+rtkwhoZ5pFR05vhNYc=
+		</data>
+		<key>.git/objects/a1/ba10d8cf83526be4b53a15849dd7c0928a6be6</key>
+		<data>
+		gLerLdqEjXixpPwgtBrDSy8Zd+0=
+		</data>
+		<key>.git/objects/ad/f02650d0112c8b687802c8b74d09e9cdd05570</key>
+		<data>
+		zJz10Gyu5Y4z7/2BiJjW61DZ3lI=
+		</data>
+		<key>.git/objects/ae/e7c618019a289751966f73f8ad3015470b993a</key>
+		<data>
+		3MZLmBPvGWBVzQTc3OcYfnWzu5A=
+		</data>
+		<key>.git/objects/b1/175212dd57a40a6f514a343e5b5f829e8d1ec9</key>
+		<data>
+		+9nYFnRnJc/R7pIqJRqLOZuNaZQ=
 		</data>
 		<key>.git/objects/b2/6f7b955bda6d14f2790159ba49317397df0722</key>
 		<data>
@@ -187,6 +219,10 @@
 		<key>.git/objects/d4/26935b49569b7a55432b8c89d0548c1064007d</key>
 		<data>
 		92DMpMF6RVYyUQWfx0SP8c8ZQws=
+		</data>
+		<key>.git/objects/da/cd44226bba4f4d0e986456d996f79230e4c84f</key>
+		<data>
+		negv3o3h4ZPJeWIPwL0FeZiJABE=
 		</data>
 		<key>.git/objects/dc/109fc0918f13091160f9493ddd85773aef9143</key>
 		<data>
@@ -214,15 +250,15 @@
 		</data>
 		<key>.git/refs/heads/main</key>
 		<data>
-		xkjlYLu714z/vtVor8M4Ky7OkUw=
+		N5jSaUshHbMFkwMvOvpGJbgwugk=
 		</data>
 		<key>.git/refs/remotes/origin/main</key>
 		<data>
-		xkjlYLu714z/vtVor8M4Ky7OkUw=
+		N5jSaUshHbMFkwMvOvpGJbgwugk=
 		</data>
 		<key>APIHandler.podspec</key>
 		<data>
-		Xn3QI8mYRK+NTrJas2mMqb7UEo0=
+		aYcdSh2yN56Dj+eKn5h0Uwc+pEU=
 		</data>
 		<key>Headers/APIHandler-Swift.h</key>
 		<data>
@@ -238,11 +274,11 @@
 		</data>
 		<key>Modules/APIHandler.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		EQwYfluH+Cm1uFUcFJMlTrmJnb4=
+		GWx0BgQcHUVU0T6URzvCdUw7x1g=
 		</data>
 		<key>Modules/APIHandler.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		4Qvj+SPVXX/8V2+GjbTkk3ohujY=
+		8XBqqECzG+6SKGyhBybhrD6FqLw=
 		</data>
 		<key>Modules/APIHandler.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -254,7 +290,7 @@
 		</data>
 		<key>Modules/APIHandler.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Rqt3YgsqffqRJ5krKDlkDutJ/vU=
+		iZSyqVCVVl7eVK2wMQhNnjkGtxc=
 		</data>
 		<key>Modules/APIHandler.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -266,7 +302,7 @@
 		</data>
 		<key>Modules/APIHandler.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0sfU/KPQX/HeeMw80KbbPV3orn4=
+		jEsIBMECrPNnEJX/e1cmZ/q8hFg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -279,18 +315,11 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>.git/AUTO_MERGE</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FDQRgwOqhN8u2/F/uTl4y0t6eJ6QshwM+IRfgVRoz+o=
-			</data>
-		</dict>
 		<key>.git/COMMIT_EDITMSG</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EZlkQViEF6J68QzXxear21cPGLHAAEj7OaLgd1J5c2w=
+			Yo5JIkipnY3De05s5NFLRnkpYd1RrEjAD1a0o6hPs/k=
 			</data>
 		</dict>
 		<key>.git/FETCH_HEAD</key>
@@ -430,7 +459,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rZRiCOL7/4I9g4297j4ZcVlGaiDmpCtvUJr2pNNHbr8=
+			SCn9f+JN/C18fkqP9/knJwwmBDijNn8NRNYzC9nX+8A=
 			</data>
 		</dict>
 		<key>.git/info/exclude</key>
@@ -444,21 +473,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mKwxrc6NqRVOCDw0wsloQT63g1zj50kwjrVB/rxeJDg=
+			mCcxSBovja2z4qi2kshfgLX58vPI/C17y9Eq7zQ/V4I=
 			</data>
 		</dict>
 		<key>.git/logs/refs/heads/main</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Itye0rw/1pOF5SHMr2gwkYGH5sC3OZyoSeO7u1ipjsY=
+			YRGWLvdwC36V/8nIR/gXlLXU3pHMRs99JK3Vv6PaD2Q=
 			</data>
 		</dict>
 		<key>.git/logs/refs/remotes/origin/main</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vTfG7zW70dwZC/x+k6HazZmvEI/aw8gZ6GT0hylmido=
+			zNT/UvG3LACmtkF8wFVohtbNkuCkFfR5gMH0DiTyqKg=
 			</data>
 		</dict>
 		<key>.git/objects/00/0817dba53453e4e7970fe77c380e654c5f9e18</key>
@@ -482,6 +511,13 @@
 			RQCnok7ux1AMVI29Y7IR9s5SivZhI0n53w9fsY7m1o4=
 			</data>
 		</dict>
+		<key>.git/objects/16/22a713365fa997e44cf11b4e5695df4e7bce6e</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aaZqCgSk8LCxPRZOKNvF5Zf6N/OVwhFVMbH8sJ4ygLc=
+			</data>
+		</dict>
 		<key>.git/objects/1b/58fb8d90825d86c7f75c0f04bcc3fcc001f544</key>
 		<dict>
 			<key>hash2</key>
@@ -501,6 +537,13 @@
 			<key>hash2</key>
 			<data>
 			SpZj+GmYmLqICK5cGrs5e4+X6NiGdfy5qGlXoLgxb+s=
+			</data>
+		</dict>
+		<key>.git/objects/40/fed0b9ab47343a83773f1d7a722e2df8fbcea9</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PoipSVnZyu6x4l2j+QjxgPQIpGf3GHLz2nLhq+V2OFA=
 			</data>
 		</dict>
 		<key>.git/objects/4a/445fd05303707995495775aef40625f8ee6403</key>
@@ -559,11 +602,60 @@
 			ZUvymUPOaC7+fZwW8SXdgLBAqqT+tDgWov+Gg/0zwJQ=
 			</data>
 		</dict>
+		<key>.git/objects/8f/437bc74cc70b2f2f9db788cecd9869cfb5dc16</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			W2mMP3bJnxxzQo2SD0z3w7MP3jNqA4eXdmApqyCXt6c=
+			</data>
+		</dict>
+		<key>.git/objects/95/9864193727ab4b7a674bbd29a00deb8cbcf4b0</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			purNkLSRltPFHql0M9Oy2y/wV8btFxt/Nk4inFngVsw=
+			</data>
+		</dict>
 		<key>.git/objects/9d/bf82978237f6281d2a639ef03dbb483d56752f</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			Um76lVaOB4ubv/7APyGrnTKTrNHeYX5ESqpG/WS9rUU=
+			</data>
+		</dict>
+		<key>.git/objects/9f/386a1de33719b65fb383ba950a551d70fc96e7</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			T8iDIGrEbD03eZWBTCXZBycGb2I2uxNYtOA/Nu8ArAs=
+			</data>
+		</dict>
+		<key>.git/objects/a1/ba10d8cf83526be4b53a15849dd7c0928a6be6</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sUXiKVg4SRnIvXD/iQl4I0QI24GiArbjvutWXnHmdq4=
+			</data>
+		</dict>
+		<key>.git/objects/ad/f02650d0112c8b687802c8b74d09e9cdd05570</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nGdohPtjerPWzFCU4oDwDACw66Ux//lTmg/M4RVyshM=
+			</data>
+		</dict>
+		<key>.git/objects/ae/e7c618019a289751966f73f8ad3015470b993a</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eTedCiV5xQKxQ0JbPbKpYRQs9ZPRGF9h/J+FzB+WU8U=
+			</data>
+		</dict>
+		<key>.git/objects/b1/175212dd57a40a6f514a343e5b5f829e8d1ec9</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			trsEmB0ANxQd/WhDB0hhgwR/npqAIL1hbTGwADcSs0o=
 			</data>
 		</dict>
 		<key>.git/objects/b2/6f7b955bda6d14f2790159ba49317397df0722</key>
@@ -592,6 +684,13 @@
 			<key>hash2</key>
 			<data>
 			28G9h/0kwqWoiJl+StlmpXyljzZxePGXPsPQ2mjcTHw=
+			</data>
+		</dict>
+		<key>.git/objects/da/cd44226bba4f4d0e986456d996f79230e4c84f</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+x37fSPqdTDocZ5bakPbe6X0LCXVglY5IygEgCEA+2E=
 			</data>
 		</dict>
 		<key>.git/objects/dc/109fc0918f13091160f9493ddd85773aef9143</key>
@@ -640,21 +739,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fpKNTc5Su7iX0ae2z+omiZTLx54RtSJ/N8x2W7pT34k=
+			JSXogmlow9a1S8zHqFsbBH327AIotOBfNzM3z1kJffg=
 			</data>
 		</dict>
 		<key>.git/refs/remotes/origin/main</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fpKNTc5Su7iX0ae2z+omiZTLx54RtSJ/N8x2W7pT34k=
+			JSXogmlow9a1S8zHqFsbBH327AIotOBfNzM3z1kJffg=
 			</data>
 		</dict>
 		<key>APIHandler.podspec</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D/u0Zb/0lqNewfvAWSRCwzg52SMtG3ytm5x7by+HKY8=
+			Drt5+sANVCOdy+bhPZILmLB0M68W8a7o3DE02sMfv9c=
 			</data>
 		</dict>
 		<key>Headers/APIHandler-Swift.h</key>
@@ -675,14 +774,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4eZ6NPCpcWJi7dwbmJdVxgtV/Qdf/ACYerF/vLElDqA=
+			FjyrBg+qGxCa6Cg9A+wLL9bbIvimiREIqygpN62Eg5c=
 			</data>
 		</dict>
 		<key>Modules/APIHandler.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7FN52lTcWMnOheZLCpm26hOKbjTzr7FC02W56itA2pU=
+			TpQOqn9MJ8HpoY3V8Ad3Xlk+Lll9XPqLs5+pnTATVNo=
 			</data>
 		</dict>
 		<key>Modules/APIHandler.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -703,7 +802,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vsmmJhcaGtkV5JKeoD2XpID/dbpzQqtA3e1iueafBGA=
+			nwvJuY6mXqWKb0yigjUIcQp++hyvN6Vq/kZi8islOxc=
 			</data>
 		</dict>
 		<key>Modules/APIHandler.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -724,7 +823,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6a0JdzY3UC7iDaWGPDskfjr8K+xTtkpPGw1jpC2WX3Q=
+			cMDar4jkoCMS3IJNbcI5cWrHrvLuAxx+QAAd/i5EDhY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
